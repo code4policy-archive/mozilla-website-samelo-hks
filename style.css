@@ -38,3 +38,17 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+.quote{
+transform: skew(-5deg);
+color:  slategray;
+}
+
+#mainquote{
+  color: #FF9500;
+  font-size: 40px;
+  text-transform: uppercase;
+  transform: rotate(-5deg)
+             skew(-5deg);
+  background-color: black;
+}
